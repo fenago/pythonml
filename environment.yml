@@ -9,3 +9,7 @@ dependencies:
   - pandas
   - seaborn
   - scikit-learn
+  - statsmodels
+  - graphviz
+  - pydotplus
+  - xgboost
